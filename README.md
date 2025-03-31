@@ -3,3 +3,10 @@
 - El propósito de los archivos gitignore es garantizar que ciertos archivos que Git no rastrea permanezcan sin rastrear
 ### cuando se debe usar?
 - Cuando se crea un nuevo repositorio, se recomienda crear un archivo .gitignore con los archivos y patrones de archivos que se desean ignorar.
+### como configurar el gitignore?
+1. Abre tut terminal o linea de comandos
+2, Navega hasta la raiz de tu repositorio de Git.
+3. escribe touch .gitignore y presiona enter
+4. Abre el nuevo archivo
+5. Agrega las rutas de los archivos o directorios que quieres que git ignore,cada una en una linea nueva
+6. Guarda y cierra el archivo
