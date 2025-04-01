@@ -10,3 +10,5 @@
 4. Abre el nuevo archivo
 5. Agrega las rutas de los archivos o directorios que quieres que git ignore,cada una en una linea nueva
 6. Guarda y cierra el archivo
+## punto 3g
+el resultado es el mismo porque el puntero tiene guardado la direccion de memoria de la variable,el punto 4 obtiene la direccion de memoria del puntero,es distinto que los anteriores porque es la direccion del puntero mismo
